@@ -121,5 +121,5 @@ $$\begin{aligned}
 
 ## Examples
 
-[A comparison of Least Square Method and Gradient Descent on Linear Regression](../_posts/LinearRegression.py)  
+[A comparison of Least Square Method and Gradient Descent on Linear Regression](../attachments/LinearRegression.py)  
 (This is from [Tommy Huang](https://medium.com/@chih.sheng.huang821/%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8-linear-regression-3a271a7453e).)
