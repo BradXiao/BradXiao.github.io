@@ -10,7 +10,7 @@ toc: true
 
 # Gradient Descent
 
-對一向量偏微分可取得該變數之最大變化之方向和量，稱為梯度。通常函數為誤差函數，越低越好，故要減去梯度，稱梯度下降法。在某些場和需要梯度上升法，如函數為Rewards函數。典型的神經網路更新方法為：
+對一向量偏微分可取得該變數之最大變化之方向和量，稱為梯度。通常函數為誤差函數，越低越好，故要減去梯度，稱梯度下降法。在某些場和需要梯度上升法，如函數為Rewards函數。<!-- more -->典型的神經網路更新方法為：
 
 $$
 W\leftarrow W-\eta \frac{\partial L}{\partial W}
@@ -46,7 +46,7 @@ $$
 
 # Adam
 
-結合 Momentum 和 RMSprop，其中$\hat{m_t}$和$\hat{v_t}$之分母為bias correction，即一開始時$m=0, v=0$，能校正為$\hat{m_1}=\frac{\cancel{\beta 0}+\cancel{(1-\beta)}\frac{\partial L}{\partial W}}{\cancel{1-\beta}}$。
+結合 Momentum 和 RMSprop，其中$\hat{m_t}$和$\hat{v_t}$之分母為bias correction，即一開始時$m=0, v=0$，能校正為$\require{cancel}\hat{m_1}=\frac{\cancel{\beta 0}+\cancel{(1-\beta)}\frac{\partial L}{\partial W}}{\cancel{1-\beta}}$。
 
 $$
 \begin{aligned}

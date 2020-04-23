@@ -11,7 +11,8 @@ pinned: false
 
 
 # Linear Regression
-
+Here is an example of linear regression using least square method.
+<!-- more -->
 ## Simple Linear Regression
 
 There are $n$ samples and each sample is denoted by $x_i\in[x_1, x_2, ..., x_n]$. For each sample, there is a label(answer) for it denoted by $y_i\in[y_1, y_2, ..., y_n].$ I would like to use a formula to predict every $y_i$ using $x_i$. The predicted $y_i$ is then denoted by $\hat{y}_i$. The formula is then shown below.
@@ -29,6 +30,7 @@ $$MSE=\frac{1}{n}\sum_{i=1}^n (y_i-\hat{y}_i)^2$$
 ### Least Square Method
 This is a common method where we find the derivatives of the loss function w.r.t. $a,b$. The derivatives equal to zero. There are two variables $a,b$.  
 For b,
+
 $$\frac{\partial Loss(y_i,\hat{y}_i)}{\partial b}=0$$
 
 $$\begin{aligned}
@@ -46,6 +48,7 @@ $$\begin{aligned}
 \end{aligned}$$
 
 #### For a,
+
 $$\frac{\partial Loss(y_i,\hat{y}_i)}{\partial a}=0$$
 
 $$\begin{aligned}
@@ -118,5 +121,5 @@ $$\begin{aligned}
 
 ## Examples
 
-[A comparison of Least Square Method and Gradient Descent on Linear Regression](LinearRegression.py)  
+[A comparison of Least Square Method and Gradient Descent on Linear Regression](../_posts/LinearRegression.py)  
 (This is from [Tommy Huang](https://medium.com/@chih.sheng.huang821/%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8-linear-regression-3a271a7453e).)

@@ -11,7 +11,7 @@ toc: true
 
 # Normalization
 Sometimes the features we gather may be in different units. E.g., the temperature may vary from 0 to 50 and the rainfall may vary from 0 to 2000. Feeding the data directly into neural networks may cause some problems. Especially, when sigmoid function is used. This is because the derivatives of sigmoid function in left and right sides are small, the convergence is slowed down. 
-
+<!-- more -->
 ## Min-max
 
 ###  0~1
