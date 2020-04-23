@@ -9,7 +9,6 @@ toc: false
 pinned: false
 ---
 
-# Pearson Corelation Coefficient
 A coefficient is used to measure the corelation of two groups of variables. It only measures the linear relation. The value is between -1~1. Assume there are two sets $X$ and $Y$. There are $n$ samples in each. We can get:
 <!-- more -->
 

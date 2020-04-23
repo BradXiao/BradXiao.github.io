@@ -10,7 +10,6 @@ pinned: false
 ---
 
 
-# Linear Regression
 Here is an example of linear regression using least square method.
 <!-- more -->
 ## Simple Linear Regression
@@ -47,7 +46,7 @@ $$\begin{aligned}
 &\Rightarrow b=\sum(y_i-ax_i)
 \end{aligned}$$
 
-#### For a,
+For a,
 
 $$\frac{\partial Loss(y_i,\hat{y}_i)}{\partial a}=0$$
 
