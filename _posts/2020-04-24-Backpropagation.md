@@ -2,7 +2,7 @@
 layout: post
 title: Backpropagation
 date: 2020-04-24
-Author: Brad
+author: Brad
 tags: [DNN Basic]
 comments: true
 toc: true

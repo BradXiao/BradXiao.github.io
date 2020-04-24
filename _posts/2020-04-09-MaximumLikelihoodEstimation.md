@@ -2,7 +2,7 @@
 layout: post
 title: Maximum Likelihood Estimation
 date: 2020-04-09
-Author: Brad
+author: Brad
 tags: [Math]
 comments: true
 toc: false

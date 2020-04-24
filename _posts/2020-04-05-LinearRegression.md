@@ -2,7 +2,7 @@
 layout: post
 title: Linear Regression
 date: 2020-04-05
-Author: Brad
+author: Brad
 tags: [Supervised,Linear Classifier]
 comments: true
 toc: true

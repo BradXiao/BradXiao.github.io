@@ -2,7 +2,7 @@
 layout: post
 title: Optimizers
 date: 2020-04-10
-Author: Brad
+author: Brad
 tags: [DNN Basic]
 comments: true
 toc: true
