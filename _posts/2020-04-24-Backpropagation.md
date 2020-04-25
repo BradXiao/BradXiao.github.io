@@ -13,19 +13,19 @@ toc: true
 神經網路要更新其權重及偏置值只需要對誤差函數微權重或偏置值，然後由於神經網路層數一深，在計算上往往很複雜，為了簡化，有人提出了以$\delta$為主的反向傳播法。<!-- more -->它定義為：
 
 $$
-\delta^l_j\equiv\frac{\partial E}{\partial z^l_j}
+\delta^l_j:=\frac{\partial E}{\partial z^l_j}
 $$
 
 其中，$E$為誤差函式，這裡以L2誤差為例子，上標代表神經網路層數$l$，下標為第$l$層的第$j$的神經元，$z$為未經過激活函式的值，經過激活函式為$a$。  
 根據結果，我們可以利用以下4個方程式更新網路。
 
 $$
-\begin{align}
+\begin{aligned}
 BP1&: \delta^L=\nabla_a E \odot \sigma'(z^L)\\
 BP2&: \delta^l=(\delta^{l+1}w^{l+1})\odot\sigma'(z^l)\\
 BP3&: \frac{\partial E}{\partial b^l_j}=\delta^l_j\\
 BP4&: \frac{\partial E}{\partial W^l_{jk}}=\delta^l_j a^{l-1}_k
-\end{align}
+\end{aligned}
 $$
 
 ## BP1

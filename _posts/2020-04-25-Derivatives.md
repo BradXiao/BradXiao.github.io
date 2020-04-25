@@ -53,7 +53,7 @@ $$
 ### Relu
 
 $$
-ReLu\coloneqq max(0,x)
+ReLu:=max(0,x)
 $$
 
 
@@ -88,7 +88,7 @@ $$
 ### MSE
 
 $$
-MSE\coloneqq \frac{1}{2}\sum{(y_k-z_k)^2}
+MSE:=\frac{1}{2}\sum{(y_k-z_k)^2}
 $$
 
 
@@ -144,8 +144,9 @@ $$
 
 ### Cross Entropy微分
 
+
 $$
-CE\coloneqq -\sum_k{y_k\log{(p_k)}}
+CE:=-\sum_k{y_k\log{(p_k)}}
 $$
 
 $$
