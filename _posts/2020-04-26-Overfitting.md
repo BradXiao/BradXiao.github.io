@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overfitting
-date: 2020-04-24
+date: 2020-04-26
 author: Brad
 tags: [DNN Basic,DNN]
 comments: true
