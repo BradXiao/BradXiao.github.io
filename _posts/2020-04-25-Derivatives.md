@@ -104,7 +104,7 @@ $$
 ### Softmax
 
 $$
-p_i=\frac{e^{z_i}}{\sum^K{k=1}e^{z_k}}
+p_i=\frac{e^{z_i}}{\sum^K_{k=1}e^{z_k}}
 $$
 
 微分必需分成$i=j$和$i\ne j$。  
