@@ -9,7 +9,8 @@ toc: true
 pinned: false
 ---
 ###### tags: `object detection`
-
+本篇介紹一些物體偵測共同會用到的方法或技巧。
+<!-- more -->
 ## NMS
 Non-maximum suppression
 > 針對相同物件，從多個候選框中選擇一個正確的方法
