@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TensorFlow: Gradient Tape
+title: TensorFlow:Gradient Tape
 date: 2020-09-04
 author: Brad
 tags: [DNN, TensorFlow]
