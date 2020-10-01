@@ -3,12 +3,12 @@ layout: post
 title: 共同基礎概念
 date: 2020-09-19
 author: Brad
-tags: [Object Detection, DNN]
+tags: Object_Detection, DNN
 comments: true
 toc: true
 pinned: false
 ---
-###### tags: `Object Detection`
+
 本篇介紹一些物體偵測共同會用到的方法或技巧。
 <!-- more -->
 ## NMS
