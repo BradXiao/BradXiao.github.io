@@ -3,7 +3,7 @@ layout: post
 title: Feature Selection
 date: 2020-10-01
 author: Brad
-tags: [Machine Learning]
+tags: [Machine Learning, Data Preprocessing]
 comments: true
 toc: true
 pinned: false
@@ -12,7 +12,7 @@ pinned: false
 
 
 # Feature Selection
-###### tags: `Machine Learning`
+###### tags: `Machine Learning` `Data Preprocessing`
 
 特徵選取是為了減少特徵數量、降維，使得模型的泛化能力更強，進而提升模型的性能
 
