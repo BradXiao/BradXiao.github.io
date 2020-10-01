@@ -3,15 +3,12 @@ layout: post
 title: Yolo Series
 date: 2020-10-01
 author: Brad
-tags: [Object Detection, DNN]
+tags: Object_Detection, DNN
 comments: true
 toc: true
 pinned: false
 ---
 
-
-
-###### tags: `Object Detection`
 # YOLO Series
 You Only Look Once
 為end-to-end單一網路設計，速度上相較於**典型**的R-CNN快
