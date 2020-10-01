@@ -36,10 +36,10 @@ pinned: false
     * 比記
         * 一句話總結每段文字
 
-# How to read a paper
-## Three pass
+# How to read a paper in three pass
 ### First Pass: General idea  
 > 10 min
+
 #### How to?
 * Read title, abstract, introduction
 * Read headings (section, sub-section)
@@ -53,6 +53,7 @@ pinned: false
 * Clarity
 ### Second Pass: Grasp contents
 > 1 hr
+
 #### How to?
 * Read figures, diagrams, graphs...
 * Read to summarize it to others
@@ -66,6 +67,7 @@ pinned: false
 
 ### The third pass: Re-implement virtually
 > 4 to 5 hr (1 hr for experts)
+
 #### How to?
 * Read to be able to re-implement **virtually**
 * Try to challenge everything
@@ -79,3 +81,44 @@ These are key papers. They can also help you identify top conferences.
 3. Grasp high-quality papers from these top conferences
 4. Gather the papers collected from step 2 & 3.
 5. Make two passes on these papers.
+
+# How to review papers
+* Make turns between papers from start to finish if you have time.
+* Start as soon as possible. Mark them up. Make comments in the blanks.
+* The purpose is to help select possible papers, not to judge on each paper.
+## Structure of a review
+1. Summarize the paper
+2. State the contributions
+3. Give specific comments
+4. (If you like,) Summarize the good and bad points and a breif recommendation and its reasons
+
+## Check list
+* Purpose
+    * What kind of conference is the paper for?
+    * What are the audiences?
+* Structure
+    * Is related work missing?
+* Novelty
+    * What's new?
+* Writing
+    * Is it clear?
+    * Is there any topy?
+* Tenical flaws
+* Gaps or unaddressed issues
+* Is there anything you think is really cool?
+
+## Tone
+Remember your review will be read by people who don't know who you are, your personality or sense of humor is like, and can't see your face or hear your voice. Therefore, the tone is important.
+ 
+
+* Convert negative comments to suggestions
+    *  :thumbsdown: Negative comment: "This system doesn't ..."
+    * :thumbsup: "The paper would be much stronger if it discusses..."
+
+    * :thumbsdown: "This paper doesn't cite Multics, which did everything you do and more."
+    * :thumbsup: "This paper reminded me of Multics, which seems quite similar. I would find the paper more persuative if it stated what the authors do over and above Multics."
+* Criticize the paper, not the work itself.
+* There is a remote possibility that you misunderstood the paper.
+    * :thumbsdown: "The algorithm given breaks the rule."
+    * :thumbsup: "The description in the paper left me worried that the algorithm breaks..."
+* It's okay to be humorous, but try to stay emotionally mature.
