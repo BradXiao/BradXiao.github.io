@@ -3,7 +3,7 @@ layout: post
 title: Hyperparameter  Optimization/Tuning
 date: 2020-10-01
 author: Brad
-tags: [Machine Learning, Data Preprocessing]
+tags: Machine_Learning, Data_Preprocessing
 comments: true
 toc: true
 pinned: false
@@ -12,7 +12,7 @@ pinned: false
 <!-- more -->
 
 # Hyperparameter  Optimization/Tuning
-###### tags: `Machine Learning`
+
 
 機器學習最困難的部份是為模型找到好的超參數，不好的超參數甚至會直接導致不好的模型效果。
 
