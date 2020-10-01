@@ -36,8 +36,8 @@ pinned: false
     * 比記
         * 一句話總結每段文字
 
-# How to read a paper in three pass
-### First Pass: General idea  
+# How to read a paper in three passes
+### The first Pass: General idea  
 > 10 min
 
 #### How to?
@@ -45,13 +45,15 @@ pinned: false
 * Read headings (section, sub-section)
 * Read conclusion
 * Find the paper you've read in reference
+
 #### Ask yourself
 * Category: Application? improvement of an algorithm? concept?
 * Theory: based-on other concept/system/theory?
 * Correctness: Assumptions are valid?
 * Contributions
 * Clarity
-### Second Pass: Grasp contents
+
+### The second Pass: Grasp contents
 > 1 hr
 
 #### How to?
@@ -86,6 +88,7 @@ These are key papers. They can also help you identify top conferences.
 * Make turns between papers from start to finish if you have time.
 * Start as soon as possible. Mark them up. Make comments in the blanks.
 * The purpose is to help select possible papers, not to judge on each paper.
+
 ## Structure of a review
 1. Summarize the paper
 2. State the contributions
