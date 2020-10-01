@@ -3,7 +3,7 @@ layout: post
 title: Machine Learning Techniques
 date: 2020-10-01
 author: Brad
-tags: Machine Learning
+tags: "Machine Learning"
 comments: true
 toc: true
 pinned: false
