@@ -3,7 +3,7 @@ layout: post
 title: Normalization
 date: 2020-04-07
 author: Brad
-tags: [Data Preprocessing]
+tags: Data_Preprocessing
 comments: true
 toc: true
 ---
