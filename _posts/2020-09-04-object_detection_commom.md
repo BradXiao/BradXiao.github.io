@@ -3,7 +3,7 @@ layout: post
 title: 共同基礎概念
 date: 2020-09-19
 author: Brad
-tags: Object_Detection, DNN
+tags: Object_Detection DNN
 comments: true
 toc: true
 pinned: false
