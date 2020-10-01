@@ -37,7 +37,8 @@ pinned: false
         * 一句話總結每段文字
 
 # How to read a paper in three passes
-### The first Pass: General idea  
+
+### The first pass: General idea  
 > 10 min
 
 #### How to?
@@ -53,7 +54,7 @@ pinned: false
 * Contributions
 * Clarity
 
-### The second Pass: Grasp contents
+### The second pass: Grasp contents
 > 1 hr
 
 #### How to?
@@ -115,13 +116,13 @@ Remember your review will be read by people who don't know who you are, your per
  
 
 * Convert negative comments to suggestions
-    *  :thumbsdown: Negative comment: "This system doesn't ..."
-    * :thumbsup: "The paper would be much stronger if it discusses..."
+    *  :thumbsdown:Negative comment: "This system doesn't ..."
+    * :thumbsup:"The paper would be much stronger if it discusses..."
 
-    * :thumbsdown: "This paper doesn't cite Multics, which did everything you do and more."
-    * :thumbsup: "This paper reminded me of Multics, which seems quite similar. I would find the paper more persuative if it stated what the authors do over and above Multics."
+    * :thumbsdown:"This paper doesn't cite Multics, which did everything you do and more."
+    * :thumbsup:"This paper reminded me of Multics, which seems quite similar. I would find the paper more persuative if it stated what the authors do over and above Multics."
 * Criticize the paper, not the work itself.
 * There is a remote possibility that you misunderstood the paper.
-    * :thumbsdown: "The algorithm given breaks the rule."
-    * :thumbsup: "The description in the paper left me worried that the algorithm breaks..."
+    * :thumbsdown:"The algorithm given breaks the rule."
+    * :thumbsup:"The description in the paper left me worried that the algorithm breaks..."
 * It's okay to be humorous, but try to stay emotionally mature.
